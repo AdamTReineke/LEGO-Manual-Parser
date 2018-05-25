@@ -1,0 +1,7 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "Launch in WSL",
+    "useWSL": true,
+    "program": "${workspaceFolder}/index.js"
+}
